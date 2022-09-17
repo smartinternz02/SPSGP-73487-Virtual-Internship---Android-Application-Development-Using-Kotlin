@@ -1,4 +1,4 @@
-# GroceryApplication
+# Grocery Application
 
 Myself Chandramouli Malladi
 
